@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class Main {
+    //hi sensei
     public static int bossHealth = 800;
     public static int bossDamage = 50;
     public static String bossDefence;
